@@ -75,7 +75,7 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
 
 ## 🎯 Projetos em Destaque
 
-### 🌐 [Nome do Projeto 1]([link-do-repositorio](https://github.com/felipeandrade08/Finan-as-))
+### 🌐 [Finanças]([link-do-repositorio](https://github.com/felipeandrade08/Finan-as-))
 > Breve descrição do projeto - O que ele faz e qual problema resolve
 
 **Tecnologias:**  HTML5, CSS3, JavaScript
