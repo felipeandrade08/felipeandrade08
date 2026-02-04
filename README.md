@@ -191,8 +191,8 @@ const felipeAndrade = {
 
 ## 📫 Como me Encontrar
 
-- 💼 LinkedIn: [Felipe Andrade](https://www.linkedin.com/in/seu-perfil/)
-- 📧 Email: seu.email@gmail.com
+- 💼 LinkedIn: [Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-0331b9205/)
+- 📧 Email: felipe.pessoall2026@gmail.com
 - 🌍 Localização: Dobrada, São Paulo, Brasil
 - 💬 Pergunte-me sobre: **JavaScript, React, Python, Web Development**
 - ⚡ Fato divertido: Transformo café em código! ☕➡️💻
