@@ -73,47 +73,6 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
   
 </div>
 
-## 🎯 Projetos em Destaque
-
-### 🌐 [Finanças]([link-do-repositorio](https://github.com/felipeandrade08/Finan-as-))
-> Breve descrição do projeto - O que ele faz e qual problema resolve
-
-**Tecnologias:**  HTML5, CSS3, JavaScript
-
-**Funcionalidades principais:**
-- ✨ Funcionalidade 1 - ✅ Múltiplos cartões por usuário
-- ✨ Funcionalidade 2 - ✅ Cálculo automático de faturas
-- ✨ Funcionalidade 3 - ✅ Controle de limites disponíveis
-
-**[🔗 Ver Demo ao Vivo](link-demo)** | **[📂 Ver Código]([link-repo](https://github.com/felipeandrade08/Finan-as-))**
-
----
-
-### 🎨 [Nome do Projeto 2](link-do-repositorio)
-> Breve descrição do projeto - O que ele faz e qual problema resolve
-
-**Tecnologias:** HTML5, CSS3, JavaScript
-
-**Funcionalidades principais:**
-- ✨ Funcionalidade 1 - Descrição breve
-- ✨ Funcionalidade 2 - Descrição breve
-- ✨ Funcionalidade 3 - Descrição breve
-
-**[🔗 Ver Demo ao Vivo](link-demo)** | **[📂 Ver Código](link-repo)**
-
----
-
-### 🚀 [Nome do Projeto 3](link-do-repositorio)
-> Breve descrição do projeto - O que ele faz e qual problema resolve
-
-**Tecnologias:** Python, SQL, Node.js
-
-**Funcionalidades principais:**
-- ✨ Funcionalidade 1 - Descrição breve
-- ✨ Funcionalidade 2 - Descrição breve
-- ✨ Funcionalidade 3 - Descrição breve
-
-**[🔗 Ver Demo ao Vivo](link-demo)** | **[📂 Ver Código](link-repo)**
 
 ## 📚 Formação & Certificações
 
@@ -233,7 +192,7 @@ const felipeAndrade = {
   **💼 Estou aberto a oportunidades de trabalho!**  
   Se você está procurando um desenvolvedor júnior dedicado, apaixonado e sempre disposto a aprender, **vamos conversar!**
   
-  📧 **Contato:** seu.email@gmail.com
+  📧 **Contato:** felipe.pessoall2026@gmail.com
   
   ---
   
