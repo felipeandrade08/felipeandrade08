@@ -75,17 +75,17 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
 
 ## 🎯 Projetos em Destaque
 
-### 🌐 [Nome do Projeto 1](link-do-repositorio)
+### 🌐 [Nome do Projeto 1]([link-do-repositorio](https://github.com/felipeandrade08/Finan-as-))
 > Breve descrição do projeto - O que ele faz e qual problema resolve
 
-**Tecnologias:** React, TypeScript, Tailwind CSS
+**Tecnologias:**  HTML5, CSS3, JavaScript
 
 **Funcionalidades principais:**
-- ✨ Funcionalidade 1 - Descrição breve
-- ✨ Funcionalidade 2 - Descrição breve
-- ✨ Funcionalidade 3 - Descrição breve
+- ✨ Funcionalidade 1 - ✅ Múltiplos cartões por usuário
+- ✨ Funcionalidade 2 - ✅ Cálculo automático de faturas
+- ✨ Funcionalidade 3 - ✅ Controle de limites disponíveis
 
-**[🔗 Ver Demo ao Vivo](link-demo)** | **[📂 Ver Código](link-repo)**
+**[🔗 Ver Demo ao Vivo](link-demo)** | **[📂 Ver Código]([link-repo](https://github.com/felipeandrade08/Finan-as-))**
 
 ---
 
