@@ -132,7 +132,7 @@ const felipeAndrade = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-andrade-0331b9205/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.pessoall2026@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipeandrade08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-six-chi-18.vercel.app)
 
 </div>
 
@@ -170,7 +170,7 @@ const felipeAndrade = {
 - [ ] Contribuir para projetos open source
 - [ ] Dominar React e TypeScript
 - [ ] Aprender Node.js e criar APIs
-- [ ] Construir meu portfólio pessoal
+- [x] Construir meu portfólio pessoal
 - [ ] Fazer networking com outros devs
 
 ---
