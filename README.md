@@ -89,9 +89,9 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
 > Curso desenvolvido para oferecer uma experiência de aprendizagem envolvente sobre Inteligência Artificial, explorando conceitos fundamentais e aplicações práticas de IA no mundo real.
 
 **Desenvolvimento Web**  
-*Udemy Alumni* | Novembro 2024  
-> Ensino Técnico focado em Desenvolvimento Web
-
+*Udemy Alumni* | Novembro 2025 - Junho 2026
+> Ensino Técnico focado em Desenvolvimento Web.
+> Nesse curso estou aprendendo as seguintes tecnologias: HTML5, CSS3, BootStrap 4, JavaScript, PHP, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC. 
 ## 💡 O que me Motiva
 
 - 🧩 **Resolver Problemas Complexos:** Adoro o desafio de transformar problemas em soluções elegantes através do código
