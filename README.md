@@ -120,11 +120,6 @@ const felipeAndrade = {
 };
 ```
 
-## 📈 Atividade de Desenvolvimento
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
