@@ -91,7 +91,17 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
 **Desenvolvimento Web**  
 *Udemy Alumni* | Novembro 2025 - Junho 2026
 > Ensino Técnico focado em Desenvolvimento Web.
-> Nesse curso estou aprendendo as seguintes tecnologias: HTML5, CSS3, BootStrap 4, JavaScript, PHP, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC. 
+> Nesse curso estou aprendendo as seguintes tecnologias: HTML5, CSS3, BootStrap 4, JavaScript, PHP, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC.
+
+**Power BI Completo - Do Básico ao Avançado**  
+*Udemy Alumni* | Novembro 2025 - Janeiro 2026
+> Aprendi o passo a passo exato para criar dashboards e relatórios dinâmicos usando Business Intelligence.
+> Nesse curso Aprendi do básico ao avançado, tudo o que você precisa saber de Power BI.
+> Criei dashboards e relatórios dinâmicos.
+> Construi meus próprios relatórios intuitivos e com visual incrível.
+> Aprendi gráficos, indicadores, mapas e tudo o que precisa saber de Power BI.
+> Aprendi Power BI para usar no que quiser, em seus desafios e ganhe um enorme diferencial.
+
 ## 💡 O que me Motiva
 
 - 🧩 **Resolver Problemas Complexos:** Adoro o desafio de transformar problemas em soluções elegantes através do código
