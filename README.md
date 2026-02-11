@@ -61,18 +61,6 @@ Apaixonado por tecnologia, programação e resolução de problemas, estou const
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight)
-  
-</div>
-
 
 ## 📚 Formação & Certificações
 
