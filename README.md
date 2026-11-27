@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Felipe Andrade 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Estagi%C3%A1rio+de+TI;Estudante+de+ADS+na+Est%C3%A1cio;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o)](https://github.com/felipeandrade08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Em+busca+de+est%C3%A1gio+em+TI;Estudante+de+ADS+na+Est%C3%A1cio;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o)](https://github.com/felipeandrade08)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-andrade-0331b9205/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-six-chi-18.vercel.app)
@@ -12,12 +12,12 @@
 
 ## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio, de Dobrada (SP). Estou começando meu **estágio em TI** e gosto de transformar problemas reais em sistemas que as pessoas usam de verdade, do banco de dados à interface.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio, de Dobrada (SP). Estou em busca de **estágio em TI** e gosto de transformar problemas reais em sistemas que as pessoas usam de verdade, do banco de dados à infraestrutura.
 
-- 💼 Começando meu estágio em TI
+- 💼 Em busca de estágio em TI
 - 🎓 Cursando ADS na Estácio (2026 – 2028)
-- 🌱 Estudando agora: Next.js, TypeScript e APIs com Node.js
-- 🧩 Interesses: desenvolvimento web full stack, sistemas de gestão e IA aplicada
+- 🌱 Estudando agora: Linux, redes, Zabbix e Grafana (monitoramento e observabilidade)
+- 🧩 Interesses: infraestrutura, automação, desenvolvimento web e dados
 
 ## Projetos em destaque
 
@@ -53,6 +53,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio, de Dobrada 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </div>
 
